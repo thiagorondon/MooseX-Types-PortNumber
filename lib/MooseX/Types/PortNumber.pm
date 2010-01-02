@@ -65,6 +65,34 @@ The registration procedure is defined in [RFC4340], Section 19.9.
 
 The Dynamic and/or Private Ports are those from 49152 through 65535
 
+=head1 SUPPORT
+
+You can find documentation for this module with the perldoc command.
+
+    perldoc MooseX::Types::PortNumber
+
+You can also look for information at:
+
+=over 4
+
+=item * AnnoCPAN: Annotated CPAN documentation
+
+L<http://annocpan.org/dist/MooseX-Types-PortNumber>
+
+=item * CPAN Ratings
+
+L<http://cpanratings.perl.org/d/MooseX-Types-PortNumber>
+
+=item * RT: CPAN's request tracker
+
+L<http://rt.cpan.org/NoAuth/Bugs.html?Dist=MooseX-Types-PortNumber>
+
+=item * Search CPAN
+
+L<http://search.cpan.org/dist/MooseX-Types-PortNumber>
+
+=back
+
 =head1 SEE ALSO
 
 http://www.iana.org/assignments/port-numbers
